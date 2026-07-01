@@ -126,12 +126,3 @@ The risk factors modeled here (zone difficulty, time window vagueness, driver fa
 
 ---
 
-## Status
-
-| Day | Task | Status |
-|---|---|---|
-| Day 1 | Data generation + EDA | ✅ Done |
-| Day 2 | Cleaning pipeline | 🔄 In progress |
-| Day 3–4 | ML model | ⏳ Upcoming |
-| Day 5–6 | Streamlit app | ⏳ Upcoming |
-| Day 7 | README + GitHub push | ⏳ Upcoming |
